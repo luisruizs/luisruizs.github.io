@@ -2,10 +2,10 @@
 
 body {
     margin: 0px;
-    
+    background-color:pink;
 }
 
-#container {
+.container1 {
     
     position: absolute;
     margin: auto;
@@ -17,8 +17,8 @@ body {
     filter: url(#threshold) blur(0.6px);
 }
 
-#text1,
-#text2 {
+.text1,
+.text2 {
     position: absolute;
     width: 100%;
     display: inline-block;
