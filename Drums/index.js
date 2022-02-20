@@ -47,6 +47,10 @@ function makeSound(key) {
       setTimeout(function() {
         activeButton.classList.remove("pressed");
       }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
+      }, 100);
       break;
 
     case "s":
@@ -56,6 +60,10 @@ function makeSound(key) {
       activeButton.classList.add("pressed");    
       setTimeout(function() {
         activeButton.classList.remove("pressed");
+      }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
       }, 100);
       break;
 
@@ -67,6 +75,10 @@ function makeSound(key) {
       setTimeout(function() {
         activeButton.classList.remove("pressed");
       }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
+      }, 100);
       break;
 
     case "f":
@@ -76,6 +88,10 @@ function makeSound(key) {
       activeButton.classList.add("pressed");    
       setTimeout(function() {
         activeButton.classList.remove("pressed");
+      }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
       }, 100);
       break;
 
@@ -87,6 +103,10 @@ function makeSound(key) {
       setTimeout(function() {
         activeButton.classList.remove("pressed");
       }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
+      }, 100);
       break;
 
     case "k":
@@ -97,6 +117,10 @@ function makeSound(key) {
       setTimeout(function() {
         activeButton.classList.remove("pressed");
       }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
+      }, 100);
       break;
 
     case "l":
@@ -106,6 +130,10 @@ function makeSound(key) {
       activeButton.classList.add("pressed");    
       setTimeout(function() {
         activeButton.classList.remove("pressed");
+      }, 100);
+      document.getElementById("KeyAnn").classList.add("pressed");
+      setTimeout(function() {
+        document.getElementById("KeyAnn").classList.remove("pressed");
       }, 100);
       break;
 
