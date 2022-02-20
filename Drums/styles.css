@@ -1,13 +1,21 @@
 body {
   text-align: center;
-  background-color: #ce2696;
+  background-color: #6a6067;
 }
 
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #91868b;
+
+}
+
+h2 {
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #91868b;
 
 }
 
@@ -50,7 +58,7 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #f10357;
+  box-shadow: 0 3px 4px 0 #616060;
   opacity: 0.5;
 }
 
