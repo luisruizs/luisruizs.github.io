@@ -29,10 +29,10 @@
 
 <br>
 
-## Find the app [here](https://weather-bot.netlify.app/).
+## Find the app [here](https://www.theworldweather.tk).
 
 ## Instructions
-#### git clone https://github.com/esnz/luisruizs.git
+#### git clone https://github.com/luisruizs/luisruizs.git
 #### cd weather-app-main
 #### npm install
 #### npm start
