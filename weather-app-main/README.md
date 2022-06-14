@@ -32,8 +32,9 @@
 ## Find the app [here](https://www.theworldweather.tk).
 
 ## Instructions
-#### git clone https://github.com/luisruizs/luisruizs.git
-#### cd weather-app-main
+#### git clone https://github.com/luisruizs/luisruizs.github.io.git
+#### cd luisruizs.github.io/weather-app-main
+#### sudo apt install npm
 #### npm install
 #### npm start
 ## Iptables
