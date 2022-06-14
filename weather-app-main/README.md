@@ -31,6 +31,12 @@
 
 ## Find the app [here](https://weather-bot.netlify.app/).
 
+## Instructions
+## npm install
+## npm start
+## sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 443 -j REDIRECT --to-port 3000
+## sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 3000
+
 <br>
 
 
