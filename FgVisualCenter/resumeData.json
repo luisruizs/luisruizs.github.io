@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Esta es nuestra tarjeta de presentación que como actúa como brújula para definir el sello de calidad para los clientes.",
+    "skillmessage":"Esta es nuestra tarjeta de presentación que como actúa como brújula para definir el sello de calidad para nuestros clientes.",
     "education":[
       {
         "school":"University?",
@@ -99,76 +99,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":" ",
+        "category":" ",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":" "
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":" ",
+        "category":" ",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":" "
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":" ",
+        "category":" ",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":" "
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":" ",
+        "category":" ",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":" "
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":" ",
+        "category":" ",
+        "image":"05.jpg ",
+        "url":" "
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":" ",
+        "category":" ",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":" "
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":" ",
+        "category":" ",
+        "image":"07.jpg",
+        "url":" "
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":" ",
+        "category":" ",
+        "image":"08.jpg",
+        "url":" "
       }
     ]
   }
