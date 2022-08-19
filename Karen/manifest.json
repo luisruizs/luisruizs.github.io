@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "Karen Glen Photography",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "karenglenphoto",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "karenglenphoto",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/687x687.jpeg",
+      "type": "image/jpeg",
+      "sizes": "687x687"
+    }
+  ]
+}
