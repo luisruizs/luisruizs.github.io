@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "Resume",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Luis Manuel Ruiz",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Luis M Ruiz",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/img/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/424x424.png",
+      "type": "image/png",
+      "sizes": "424x424"
+    }
+  ]
+}
