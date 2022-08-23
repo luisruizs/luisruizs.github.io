@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Drums",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Drums",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
