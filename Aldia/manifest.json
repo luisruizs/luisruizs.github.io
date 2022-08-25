@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Inicio",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Aldía",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Aldía",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/1000x1000.png",
+      "type": "image/png",
+      "sizes": "1000x1000"
+    }
+  ]
+}
