@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "Aldía",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Aldia/",
   "short_name": "Aldía",
   "start_url": "/",
   "theme_color": "#ffffff",
